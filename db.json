@@ -232,131 +232,135 @@
       "price": 15,
       "sale": 14
     },
-     {
+    {
       "id": 33,
       "title": "Шиитаке тсукемоно",
       "img": "https://eda.yandex/images/3525661/3dd6be2c1a9eb542c16009ec893f76af-216x188.jpeg",
       "price": 8,
       "sale": 0
     },
-     {
+    {
       "id": 34,
       "title": "Суп рамен с говядиной",
       "img": "https://eda.yandex/images/3784951/cd02cc82e0641c44e140d1941a8e7f6d-216x188.jpeg",
       "price": 9,
       "sale": 8.5
-    }, {
+    },
+    {
       "id": 35,
       "title": "Калифорния кани",
       "img": "https://eda.yandex/images/3784951/140ef4041e9084b4d6a8f5ac441bfe3b-216x188.jpeg",
       "price": 60,
       "sale": 0
-    }
-    , {
+    },
+    {
       "id": 36,
       "title": "Мотто сяке ролл",
       "img": "https://eda.yandex/images/3525661/3ea6b7d924e1a2fda0c9a799ecab9602-216x188.jpeg",
-      "price": ,
-      "sale": 
-    }
-      , {
+      "price": 6,
+      "sale": 5
+    },
+    {
       "id": 37,
       "title": "Мини-сашими сет",
       "img": "https://eda.yandex/images/931388/b3ac5e53d1aabee3c43c0cc35f35f6e4-216x188.jpeg",
       "price": 65,
-      "sale":0 
-    }
-    , {
+      "sale": 0
+    },
+    {
       "id": 38,
       "title": "Сашими сет",
       "img": "https://eda.yandex/images/3525661/cad2d9d7eaad614dc5a9d14579f043d6-216x188.jpeg",
       "price": 23,
       "sale": 20
-    }
-      , {
+    },
+    {
       "id": 39,
       "title": "Ика нигири",
       "img": "https://eda.yandex/images/3806315/4e837e4dc4c762692126e141325e19bb-216x188.jpeg",
       "price": 5,
       "sale": 0
-    }
-    , {
+    },
+    {
       "id": 40,
       "title": "Унаги нигири",
       "img": "https://eda.yandex/images/1365461/09e74d447396a28e6a8d0cea1a716ca9-216x188.jpeg",
       "price": 10,
       "sale": 6
-    }
-      , {
+    },
+    {
       "id": 41,
       "title": "Японский хлопковый чизкейк ",
       "img": "https://eda.yandex/images/15437042/4f3d730854beaadc68524a0a0ff792b3-216x188.jpeg",
       "price": 8,
       "sale": 0
     }
-    
-  ],"lunch":[
-      {
+  ],
+  "lunch": [
+    {
       "id": 42,
       "title": "Блины с курицей",
       "img": "https://eda.yandex/images/3583740/469cc589a6d04c4ea3abfd5ba7c4543a-216x188.jpeg",
       "price": 5,
       "sale": 0
-    },  {
+    },
+    {
       "id": 43,
       "title": "Блины с сыром и грибами",
       "img": "https://eda.yandex/images/1962206/13c61f5f20684f0995046f5cfd466b84-216x188.jpeg",
       "price": 6,
       "sale": 5
     },
-      {
+    {
       "id": 44,
       "title": "Завтрак Ссср",
       "img": "https://eda.yandex/images/3709189/317dba4b65aa4b21a8bb61b9308b073b-216x188.jpeg",
       "price": 8,
       "sale": 0
     },
-      {
+    {
       "id": 45,
       "title": "Каша рисовая с курагой",
       "img": "https://eda.yandex/images/3483997/9544055754344d15a0eb5b4e7a40483b-216x188.jpeg",
       "price": 4,
       "sale": 3.9
     },
-      {
+    {
       "id": 46,
       "title": "Клаб сэндвич с тунцом",
       "img": "https://eda.yandex/images/3377781/ffc63ad2068b4f6982de5bcd767b786c-216x188.jpeg",
       "price": 10,
       "sale": 0
-    },  {
+    },
+    {
       "id": 47,
       "title": "Креп Сюзетт",
       "img": "https://eda.yandex/images/3191933/3c0ac4de38d6465e911308f88b53639f-216x188.jpeg",
       "price": 7,
       "sale": 6.5
     },
-      {
+    {
       "id": 48,
       "title": "Брускетта с лососем домашнего посола",
       "img": "https://eda.yandex/images/3580810/7bc3a2a09f287565ada61d42cc16a090-216x188.jpeg",
       "price": 14,
       "sale": 14.9
     },
-      {
+    {
       "id": 49,
       "title": "Сырники",
       "img": "https://eda.yandex/images/3581687/7663baa7298e4ef99a14b973dd10c14c-216x188.jpeg",
       "price": 10,
       "sale": 0
     },
-      {
+    {
       "id": 50,
       "title": "Французский завтрак",
       "img": "https://eda.yandex/images/3807631/47ac0fd3a01c4eeba086451cf6b80708-216x188.jpeg",
       "price": 98,
       "sale": 98.9
-    },  {
+    },
+    {
       "id": 51,
       "title": "Панкейки с кленовым сиропом и нутеллой",
       "img": "https://eda.yandex/images/3559865/fbc807dce5a147e39b7c2f189fec7318-216x188.jpeg",
