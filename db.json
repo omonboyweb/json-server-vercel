@@ -367,5 +367,329 @@
       "price": 15,
       "sale": 14
     }
+  ],
+  "all": [
+    {
+      "id": 6,
+      "title": "Картофель по деревенски",
+      "img": "https://eda.yandex/images/15135287/0e28ca23c3013362f68819392f6f6f94-648x312.jpg",
+      "price": 1,
+      "sale": 0.8
+    },
+    {
+      "id": 7,
+      "title": "Ланч сет №1",
+      "img": "https://eda.yandex/images/3798638/1b61358531154cb383a033ef73ab9b10-648x312.jpg",
+      "price": 6,
+      "sale": 5
+    },
+    {
+      "id": 8,
+      "title": "Мампар",
+      "img": "https://eda.yandex/images/3682162/dee37f99f1896ba003a9ac688aba0063-216x188.jpeg",
+      "price": 4,
+      "sale": 0
+    },
+    {
+      "id": 9,
+      "title": "Комбо Шашлык и Coca-cola",
+      "img": "https://eda.yandex/images/3806023/bfde7f2983f28e46160218702fc7619b-216x188.jpeg",
+      "price": 12,
+      "sale": 0
+    },
+    {
+      "id": 10,
+      "title": "Норын комплект",
+      "img": "https://eda.yandex/images/3724421/51f95fbfdc194fcf9cd6263325c20286-216x188.jpeg",
+      "price": 4,
+      "sale": 3.5
+    },
+    {
+      "id": 11,
+      "title": "Куриный стейк с овощами",
+      "img": "https://eda.yandex/images/3454897/3d6ae9b6383781201de8d3fc5bf1b070-216x188.jpeg",
+      "price": 10,
+      "sale": 9
+    },
+    {
+      "id": 12,
+      "title": "Судак филе",
+      "img": " https://avatars.mds.yandex.net/get-bunker/120922/9a3cc3b3a74fb5bdfe2496742af6851f8781b80b/orig",
+      "price": 20,
+      "sale": 19.9
+    },
+    {
+      "id": 13,
+      "title": "Судак филе",
+      "img": " https://avatars.mds.yandex.net/get-bunker/120922/9a3cc3b3a74fb5bdfe2496742af6851f8781b80b/orig",
+      "price": 20,
+      "sale": 19.9
+    },
+    {
+      "id": 14,
+      "title": "Витаминка",
+      "img": "https://eda.yandex/images/3749380/bacfee2d0f430b72eb048e88461b921d-216x188.jpeg",
+      "price": 20,
+      "sale": 19.9
+    },
+    {
+      "id": 15,
+      "title": "Крабовый салат",
+      "img": "https://eda.yandex/images/3208959/70ae3a4cd1641dafe133d138938ebcbe-216x188.jpeg",
+      "price": 33,
+      "sale": 30
+    },
+    {
+      "id": 16,
+      "title": "Салат Греческий",
+      "img": "https://eda.yandex/images/3583740/b9829e5ee3db39436f2eb1cfac120a75-216x188.jpeg",
+      "price": 12,
+      "sale": 10
+    },
+    {
+      "id": 17,
+      "title": "Салат Миста",
+      "img": "https://eda.yandex/images/2750126/f21c993364882f56ff099522e70d358c-216x188.jpeg",
+      "price": 12,
+      "sale": 10
+    },
+    {
+      "id": 18,
+      "title": "Салат Крабовый",
+      "img": "https://eda.yandex/images/3504598/9251f972b95d44cad5742a01a436b440-216x188.jpeg",
+      "price": 21,
+      "sale": 11
+    },
+    {
+      "id": 19,
+      "title": "Салат Смак",
+      "img": "https://eda.yandex/images/3534679/55340093e1ebdbed8dc9d9f4e585ee75-216x188.jpeg",
+      "price": 9,
+      "sale": 7
+    },
+    {
+      "id": 20,
+      "title": "Салат Мимоза",
+      "img": "https://eda.yandex/images/2353725/1fd2978571dbb9837def30d03f8858e5-216x188.jpeg",
+      "price": 2,
+      "sale": 0
+    },
+    {
+      "id": 21,
+      "title": "Салат",
+      "img": "https://eda.yandex/images/2353725/1fd2978571dbb9837def30d03f8858e5-216x188.jpeg",
+      "price": 22,
+      "sale": 20
+    },
+    {
+      "id": 22,
+      "title": "Милкшейк банановый",
+      "img": "https://eda.yandex/images/3506804/c84acfad01b544aa9501f494e6ef93dc-216x188.jpeg",
+      "price": 2,
+      "sale": 1.9
+    },
+    {
+      "id": 23,
+      "title": "Лимонад тархун-киви",
+      "img": "https://eda.yandex/images/3735503/984029b58afe4493ae50365e36a2c6f1-216x188.jpeg",
+      "price": 12,
+      "sale": 10
+    },
+    {
+      "id": 24,
+      "title": "Милкшейк",
+      "img": "https://eda.yandex/images/1463280/0501ef68e4dd6e7ca34d4c586fb0e802-216x188.jpeg",
+      "price": 2,
+      "sale": 0
+    },
+    {
+      "id": 25,
+      "title": "Лимонад цитрусовый",
+      "img": "https://eda.yandex/images/1219753/9615ca7f01ea4f51b9252e94ab2df138-216x188.jpeg",
+      "price": 2,
+      "sale": 0
+    },
+    {
+      "id": 26,
+      "title": "Апельсиновый фреш",
+      "img": "https://eda.yandex/images/3667559/cd8345cbb7b84b4aa1e4cf926ee90e10-216x188.jpeg",
+      "price": 2,
+      "sale": 0
+    },
+    {
+      "id": 27,
+      "title": "Яблочный фреш",
+      "img": "https://eda.yandex/images/3502490/3522515d37e24a53aba4b7b8b736391b-216x188.jpeg",
+      "price": 2,
+      "sale": 0
+    },
+    {
+      "id": 28,
+      "title": "Сок Сочная долина Яблоко",
+      "img": "https://eda.yandex/images/2750126/c34eca1d33e2371ac7b167473095074c-216x188.jpeg",
+      "price": 2,
+      "sale": 0
+    },
+    {
+      "id": 29,
+      "title": "Water",
+      "img": "https://img-url-psi.vercel.app/water.JPG",
+      "price": 100,
+      "sale": 1
+    },
+    {
+      "id": 30,
+      "title": "Blis",
+      "img": "https://img-url-psi.vercel.app/blis.jpg",
+      "price": 100,
+      "sale": 1
+    },
+    {
+      "id": 31,
+      "title": "Лимонад цитрусовый",
+      "img": "https://eda.yandex/images/1219753/9615ca7f01ea4f51b9252e94ab2df138-216x188.jpeg",
+      "price": 2,
+      "sale": 0
+    },
+    {
+      "id": 32,
+      "title": "Авокадо эби сарада",
+      "img": "https://eda.yandex/images/2370127/0ca19bb5bd3753b787d2250c82a13330-216x188.jpeg",
+      "price": 15,
+      "sale": 14
+    },
+    {
+      "id": 33,
+      "title": "Шиитаке тсукемоно",
+      "img": "https://eda.yandex/images/3525661/3dd6be2c1a9eb542c16009ec893f76af-216x188.jpeg",
+      "price": 8,
+      "sale": 0
+    },
+    {
+      "id": 34,
+      "title": "Суп рамен с говядиной",
+      "img": "https://eda.yandex/images/3784951/cd02cc82e0641c44e140d1941a8e7f6d-216x188.jpeg",
+      "price": 9,
+      "sale": 8.5
+    },
+    {
+      "id": 35,
+      "title": "Калифорния кани",
+      "img": "https://eda.yandex/images/3784951/140ef4041e9084b4d6a8f5ac441bfe3b-216x188.jpeg",
+      "price": 60,
+      "sale": 0
+    },
+    {
+      "id": 36,
+      "title": "Мотто сяке ролл",
+      "img": "https://eda.yandex/images/3525661/3ea6b7d924e1a2fda0c9a799ecab9602-216x188.jpeg",
+      "price": 6,
+      "sale": 5
+    },
+    {
+      "id": 37,
+      "title": "Мини-сашими сет",
+      "img": "https://eda.yandex/images/931388/b3ac5e53d1aabee3c43c0cc35f35f6e4-216x188.jpeg",
+      "price": 65,
+      "sale": 0
+    },
+    {
+      "id": 38,
+      "title": "Сашими сет",
+      "img": "https://eda.yandex/images/3525661/cad2d9d7eaad614dc5a9d14579f043d6-216x188.jpeg",
+      "price": 23,
+      "sale": 20
+    },
+    {
+      "id": 39,
+      "title": "Ика нигири",
+      "img": "https://eda.yandex/images/3806315/4e837e4dc4c762692126e141325e19bb-216x188.jpeg",
+      "price": 5,
+      "sale": 0
+    },
+    {
+      "id": 40,
+      "title": "Унаги нигири",
+      "img": "https://eda.yandex/images/1365461/09e74d447396a28e6a8d0cea1a716ca9-216x188.jpeg",
+      "price": 10,
+      "sale": 6
+    },
+    {
+      "id": 41,
+      "title": "Японский хлопковый чизкейк ",
+      "img": "https://eda.yandex/images/15437042/4f3d730854beaadc68524a0a0ff792b3-216x188.jpeg",
+      "price": 8,
+      "sale": 0
+    },
+    {
+      "id": 42,
+      "title": "Блины с курицей",
+      "img": "https://eda.yandex/images/3583740/469cc589a6d04c4ea3abfd5ba7c4543a-216x188.jpeg",
+      "price": 5,
+      "sale": 0
+    },
+    {
+      "id": 43,
+      "title": "Блины с сыром и грибами",
+      "img": "https://eda.yandex/images/1962206/13c61f5f20684f0995046f5cfd466b84-216x188.jpeg",
+      "price": 6,
+      "sale": 5
+    },
+    {
+      "id": 44,
+      "title": "Завтрак Ссср",
+      "img": "https://eda.yandex/images/3709189/317dba4b65aa4b21a8bb61b9308b073b-216x188.jpeg",
+      "price": 8,
+      "sale": 0
+    },
+    {
+      "id": 45,
+      "title": "Каша рисовая с курагой",
+      "img": "https://eda.yandex/images/3483997/9544055754344d15a0eb5b4e7a40483b-216x188.jpeg",
+      "price": 4,
+      "sale": 3.9
+    },
+    {
+      "id": 46,
+      "title": "Клаб сэндвич с тунцом",
+      "img": "https://eda.yandex/images/3377781/ffc63ad2068b4f6982de5bcd767b786c-216x188.jpeg",
+      "price": 10,
+      "sale": 0
+    },
+    {
+      "id": 47,
+      "title": "Креп Сюзетт",
+      "img": "https://eda.yandex/images/3191933/3c0ac4de38d6465e911308f88b53639f-216x188.jpeg",
+      "price": 7,
+      "sale": 6.5
+    },
+    {
+      "id": 48,
+      "title": "Брускетта с лососем домашнего посола",
+      "img": "https://eda.yandex/images/3580810/7bc3a2a09f287565ada61d42cc16a090-216x188.jpeg",
+      "price": 14,
+      "sale": 14.9
+    },
+    {
+      "id": 49,
+      "title": "Сырники",
+      "img": "https://eda.yandex/images/3581687/7663baa7298e4ef99a14b973dd10c14c-216x188.jpeg",
+      "price": 10,
+      "sale": 0
+    },
+    {
+      "id": 50,
+      "title": "Французский завтрак",
+      "img": "https://eda.yandex/images/3807631/47ac0fd3a01c4eeba086451cf6b80708-216x188.jpeg",
+      "price": 98,
+      "sale": 98.9
+    },
+    {
+      "id": 51,
+      "title": "Панкейки с кленовым сиропом и нутеллой",
+      "img": "https://eda.yandex/images/3559865/fbc807dce5a147e39b7c2f189fec7318-216x188.jpeg",
+      "price": 15,
+      "sale": 14
+    }
   ]
 }
